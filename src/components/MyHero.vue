@@ -1,15 +1,18 @@
 <template>
-    <div>
-        <div class="jumbotron">
-            <div class="jumbotron-items">
-                <img src="../assets/vue-jumbo.png" alt="">
-                <h2>Standard Tooling for Vue.js Development </h2>
-                <button>Get Started</button> 
-            </div>
+   
+    <div class="jumbotron">
+
+        <div class="jumbotron-items">
+
+            <img src="../assets/vue-jumbo.png" alt="vue image">
+            <h2>Standard Tooling for Vue.js Development </h2>
+            <button>Get Started</button> 
             
         </div>
         
-    </div>   
+    </div>
+        
+    
 </template>
 
 <script>
